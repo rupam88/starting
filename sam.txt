@@ -1,1 +1,3 @@
 hello git
+ i ll learning about aws and devops 
+and this is my first git website 
